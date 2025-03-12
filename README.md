@@ -18,7 +18,7 @@
 
 1. Öffnen Sie dieses Repository in Ihrer Entwicklungsumgebung.
 2. Schauen Sie sich die beiden Klassen an und teilen die Aufgaben dazwischen auf.
-3. Schauen Sie ggf. in die SuM‐Dokumentation zu Stapeln und Schlagen, um sich Tipps zu holen, wie man in SuM die erforderlichen Strukturen implementieren kann.
+3. Schauen Sie in die SuM‐Dokumentation zu Stapeln und Schlangen/Textbereichen, um sich Tipps zu holen, wie man in SuM die erforderlichen Objekte implementieren kann.
 4. Ergänzen Sie Ihren Code und machen regelmäßig Push-Anfragen, damit Ihr Team und die Lehrkraft den Fortschritt sehen können.
 
 **Viel Erfolg!**
